@@ -9,17 +9,10 @@ Bu proje, sadece HTML, CSS ve Bootstrap kullanarak oluşturulmuş bir web sitesi
 
 ## Görseller
 
-<div align="center" class="row justify-content-center" style="display: flex; justify-content: space-between;">
-  <div class="col" style="text-align: center;">
-    <p>Görsel 1: Final Template</p>
-    <img src="https://i.ibb.co/khQpjf3/Final-Template.jpg" alt="Final Template" border="0" style="width: 30%;"/>
-  </div>
-  &nbsp; &nbsp; &nbsp; &nbsp;
-  <div class="col" style="text-align: center;">
-    <p>Görsel 2: My Template</p>
-    <img src="https://i.ibb.co/k4tV958/My-Template.png" alt="My Template" border="0" style="width: 30%;"/>
-  </div>
-</div>
+| Final Template | My Template |
+--------------- | --------------
+<img src="https://i.ibb.co/khQpjf3/Final-Template.jpg" alt="Final Template" border="0"/> | <img src="https://i.ibb.co/k4tV958/My-Template.png" alt="My Template" border="0"/>
+
 
 ## Projenin Amacı
 
@@ -61,4 +54,3 @@ Bu projenin amacı template olarak verilen, Bootstrap çerçevesi ve temel web t
    ```
    
 3. Web tarayıcınızda index.html dosyasını açarak projeyi görüntüleyebilirsiniz.
-
