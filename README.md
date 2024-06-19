@@ -11,6 +11,12 @@
 
 Bu proje, sadece HTML, CSS ve Bootstrap kullanarak oluşturulmuş bir web sitesidir.
 
+## Sekmeler
+(Boş zamanım bulunduğu için fazladan 2 page daha oluşturdum.)
+- Anasayfa
+- Şarkılar
+- S.S.S. 
+
 ## Görseller
 
 | Final Template | My Template |
