@@ -1,0 +1,140 @@
+html{
+    scroll-behavior: smooth;
+}
+/* THEME COLORS */
+/* COLOR */
+.tcolorone{
+    color: #000 !important;
+}
+.tcolortwo{
+    color: #303E4E !important;
+}
+.tcolorthree{
+    color: #555555 !important;
+}
+.tcolorfour{
+    color: #267A19 !important;
+}
+.tcolorfive{
+    color: #3FB234 !important;
+}
+.tcolorsix{
+    color: #C9D0DD !important;
+}
+.tcolorseven{
+    color: #F0F4F8 !important;
+}
+
+/* BACKGROUND COLOR */
+.bgtcolorone{
+    background-color: #000 !important;
+}
+.bgtcolortwo{
+    background-color: #303E4E !important;
+}
+.bgtcolorthree{
+    background-color: #555555 !important;
+}
+.bgtcolorfour{
+    background-color: #267A19 !important;
+}
+.bgtcolorfive{
+    background-color: #3FB234 !important;
+}
+.bgtcolorsix{
+    background-color: #C9D0DD !important;
+}
+.bgtcolorseven{
+    background-color: #F0F4F8 !important;
+}
+/* HOVERS */
+.navbarhovermain ul li a:hover{
+    color: #3FB234 !important;
+}
+.active{
+    color: #3FB234 !important;
+}
+/* DİĞER */
+.yakında{
+    cursor: not-allowed;
+}
+.ilerlemebari {
+    left: 50%;
+    transform: translate(-50%, -70%);
+    margin-bottom: -30px;
+}
+.kartfoto{
+    position: relative !important;
+}
+.progress-container {
+    width: 100%; 
+}
+.songbg{
+    background-image: url(../img/background/songbg.png) !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+.secondbg{
+    background-image: url(../img/background/faqbackg.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
+.whatpeoplesaycircles{
+    border: 2px solid white;
+    opacity: 80%;
+}
+.destekcicircles{
+    border: 5px solid white;
+    opacity: 90%;
+}
+.contactbarhizalama{
+    left: 50%;
+    transform: translate(0%, -50%);
+    margin-bottom: 40px;
+    margin-top: 90px;
+}
+.logostyle{
+    font-family: 'Dancing Script';
+    color: #3FB234;
+}
+/* FAQ PAGE CSS */
+details{
+  background-color: #000000;
+  font-size: 16px;
+}
+
+summary {
+  font-size: 20px;
+  padding: .5em 1.3rem;
+  list-style: none;  
+  transition: height 1s ease !important;
+}
+
+summary::-webkit-details-marker {
+  display: none;
+}
+
+summary:after{
+  content: "\002B";
+}
+
+details[open] summary {
+    border-bottom: 1px solid #C9D0DD;
+    margin-bottom: .5em;
+}
+
+details[open] summary:after{
+  content: "\00D7";
+}
+
+details[open] div{
+  padding: .5em 1em;
+}
+.faqbg{
+    background-image: url(../img/background/faqbackg.jpg) !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+    background-size: cover !important;
+}
