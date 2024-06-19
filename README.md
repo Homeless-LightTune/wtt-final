@@ -1,10 +1,11 @@
-## GitHub Proje Linki
-
-- 231856026 / Uğur
-- Ogr. Hasan A. 'ya Teşekkür ederim ❤️
+## Github Linki
 
 [GitHub'da Görüntüle](https://github.com/Homeless-LightTune/wtt-final)
 
+## Not
+
+- 231856026 / Uğur
+- Ogr. Hasan A. 'ya Teşekkür ederim ❤️
 
 # LightTune - Final Website Project
 
