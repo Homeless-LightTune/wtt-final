@@ -19,7 +19,7 @@ Bu proje, sadece HTML, CSS ve Bootstrap kullanarak oluşturulmuş bir web sitesi
 
 ## Görseller
 
-| Final Template | My Template |
+| Sample Final Template | My Template |
 --------------- | --------------
 <img src="https://i.ibb.co/khQpjf3/Final-Template.jpg" alt="Final Template" border="0"/> | <img src="https://i.ibb.co/k4tV958/My-Template.png" alt="My Template" border="0"/>
 
