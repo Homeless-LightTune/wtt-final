@@ -11,11 +11,11 @@ Bu proje, sadece HTML, CSS ve Bootstrap kullanarak oluşturulmuş bir web sitesi
 
 <div style="display: flex; justify-content: space-between;">
   <div style="text-align: center;">
-    <p>Görsel 1: Placeholder Image 1</p>
+    <p>Görsel 1: Final Template</p>
     <img src="https://i.ibb.co/khQpjf3/Final-Template.jpg" alt="Final Template" border="0" style="width: 30%;"/>
   </div>
   <div style="text-align: center;">
-    <p>Görsel 2: Placeholder Image 2</p>
+    <p>Görsel 2: My Template</p>
     <img src="https://i.ibb.co/k4tV958/My-Template.png" alt="My Template" border="0" style="width: 30%;"/>
   </div>
 </div>
