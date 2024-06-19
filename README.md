@@ -50,7 +50,7 @@ Bu projenin amacı template olarak verilen, Bootstrap çerçevesi ve temel web t
 
 2. Proje klasörüne gidin:
    ```bash
-   cd LightTune
+   cd wtt-final
    ```
    
 3. Web tarayıcınızda index.html dosyasını açarak projeyi görüntüleyebilirsiniz.
