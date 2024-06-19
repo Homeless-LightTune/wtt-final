@@ -1,5 +1,8 @@
 ## GitHub Proje Linki
 
+- 231856026 / Uğur
+- Ogr. Hasan A. 'ya Teşekkür ederim ❤️
+
 [GitHub'da Görüntüle](https://github.com/Homeless-LightTune/wtt-final)
 
 
@@ -50,7 +53,7 @@ Bu projenin amacı template olarak verilen, Bootstrap çerçevesi ve temel web t
 
 2. Proje klasörüne gidin:
    ```bash
-   cd wtt-final
+   cd LightTune
    ```
    
 3. Web tarayıcınızda index.html dosyasını açarak projeyi görüntüleyebilirsiniz.
