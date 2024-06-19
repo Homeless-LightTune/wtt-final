@@ -9,7 +9,6 @@ Bu proje, sadece HTML, CSS ve Bootstrap kullanarak oluşturulmuş bir web sitesi
 
 ## Görseller
 
-<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
 <div align="center" class="row justify-content-center" style="display: flex; justify-content: space-between;">
   <div class="col" style="text-align: center;">
     <p>Görsel 1: Final Template</p>
