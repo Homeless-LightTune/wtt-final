@@ -5,7 +5,7 @@
 ## Not
 
 - 231856026 / Uğur
-- Ogr. Hasan A. 'ya Teşekkür ederim ❤️
+- Hasan A. Hocama Teşekkür ederim ❤️
 
 # LightTune - Final Website Project
 
